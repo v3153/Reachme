@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.3llomi:CircularStatusView:V1.0.2@aar">
+    <CLASSES>
+      <root url="file://C:/Program Files/Android/jdk/caches/transforms-3/04bbd80a8a3665d0f7fefaf4520cbb58/transformed/jetified-CircularStatusView-V1.0.2/AndroidManifest.xml" />
+      <root url="jar://C:/Program Files/Android/jdk/caches/transforms-3/04bbd80a8a3665d0f7fefaf4520cbb58/transformed/jetified-CircularStatusView-V1.0.2/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Android/jdk/caches/transforms-3/04bbd80a8a3665d0f7fefaf4520cbb58/transformed/jetified-CircularStatusView-V1.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Android/jdk/caches/modules-2/files-2.1/com.github.3llomi/CircularStatusView/V1.0.2/a7762acff2b788c2d4bf597d4e2451ae40b2fc96/CircularStatusView-V1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

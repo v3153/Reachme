@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth:21.0.4@aar">
+    <CLASSES>
+      <root url="file://C:/Program Files/Android/jdk/caches/transforms-2/files-2.1/1da377ffb64508d7a5df98b4002651a0/jetified-firebase-auth-21.0.4/res" />
+      <root url="file://C:/Program Files/Android/jdk/caches/transforms-3/cc2ac7c46f99e33452bc7cc59f03d2a8/transformed/jetified-firebase-auth-21.0.4/res" />
+      <root url="file://C:/Program Files/Android/jdk/caches/transforms-3/cc2ac7c46f99e33452bc7cc59f03d2a8/transformed/jetified-firebase-auth-21.0.4/AndroidManifest.xml" />
+      <root url="jar://C:/Program Files/Android/jdk/caches/transforms-3/cc2ac7c46f99e33452bc7cc59f03d2a8/transformed/jetified-firebase-auth-21.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Program Files/Android/jdk/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/21.0.4/15eb39ce03bd2f6afd7e21a06990eb03cd7b60f0/firebase-auth-21.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
