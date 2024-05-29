@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">266838177229-uugq98hqm9219hoh1lmb5llrsm3t2ca3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">266838177229</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZ0oo8PE53DFfqwp3JT9WidO4ZQ1U1d3k</string>
+    <string name="google_app_id" translatable="false">1:266838177229:android:bf31a9060474f2d31d8084</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZ0oo8PE53DFfqwp3JT9WidO4ZQ1U1d3k</string>
+    <string name="google_storage_bucket" translatable="false">infineefinal.appspot.com</string>
+    <string name="project_id" translatable="false">infineefinal</string>
+</resources>

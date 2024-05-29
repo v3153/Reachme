@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266838177229",
+    "project_id": "infineefinal",
+    "storage_bucket": "infineefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266838177229:android:bf31a9060474f2d31d8084",
+        "android_client_info": {
+          "package_name": "com.example.reachme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266838177229-n6ivbri94acfd83c34eaceq1v8eomf09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reachme",
+            "certificate_hash": "5063609a849b5459e6d4b5fd73d9e44ffde692f6"
+          }
+        },
+        {
+          "client_id": "266838177229-uugq98hqm9219hoh1lmb5llrsm3t2ca3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0oo8PE53DFfqwp3JT9WidO4ZQ1U1d3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266838177229-uugq98hqm9219hoh1lmb5llrsm3t2ca3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
